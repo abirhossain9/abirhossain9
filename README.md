@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abirhossain9" alt="abirhossain9" /></a> </p>
 
-- 🔭 I’m currently working on [Two E-commerce websites, One single-vendor and another multivendor](https://github.com/abirhossain9/Advanced_e_commerce_laravel_ssb351,https://github.com/abirhossain9/CSE499_Multivendor_e_commerce_platform)
+- 🔭 I’m currently working on [Two E-commerce websites, One single-vendor and another multivendor]
 
 - 🌱 I’m currently learning **React JS**
 
