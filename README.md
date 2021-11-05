@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Two E-commerce websites, One single-vendor and another multivendor
 
-- 🌱 I’m currently learning **React JS & Advanced Laravel**
+- 🌱 I’m currently learning **React JS & Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abirhossain9](https://github.com/abirhossain9)
 
