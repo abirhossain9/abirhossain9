@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abir Hossain</h1>
-<h3 align="center">To shortly introduce myself, my name is Md Abir Hossain. I am a final year student of North South University. I have been developing websites for more than one year. I have knowledge on HTML, CSS, Bootstrap, Javascript, JQuery, PHP, Laravel, MySQL, Firebase. Mostly I work as a backend developer. I have experience developing multiple projects using Laravel 8. I was the group leader for all the projects that I have done so far in my university courses. My GitHub profile is quite rich. I like to work in an organized way so I maintain GitHub for my projects. Currently I am working on two e-commerce projects using Laravel. One is for my training course and another is for my final year project. In the meantime, I am also doing a course on RactJS from Sikhbe Shobai.</h3>
+<h3 align="center">To shortly introduce myself, my name is Md Abir Hossain. I am a final year student of North South University. I have been developing websites for more than one year. I have knowledge on HTML, CSS, Bootstrap, Javascript, JQuery, PHP, Laravel, MySQL, Firebase. Mostly I work as a backend developer. I have experience developing multiple projects using Laravel 8. I was the group leader for all the projects that I have done so far in my university courses. My GitHub profile is quite rich. I like to work in an organized way so I maintain GitHub for my projects. I have experience working on single vendor and multivendor e-commerce websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirhossain9&label=Profile%20views&color=0e75b6&style=flat" alt="abirhossain9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abirhossain9" alt="abirhossain9" /></a> </p>
 
-- 🔭 I’m currently working on Two E-commerce websites, One single-vendor and another multivendor
+- 🔭 I’m currently working at shikhbe shobai as a Laravel developer intern
 
-- 🌱 I’m currently learning **React JS & Vue.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abirhossain9](https://github.com/abirhossain9)
 
