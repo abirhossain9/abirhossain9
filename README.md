@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abirhossain9" alt="abirhossain9" /></a> </p>
 
-- 🔭 I’m currently working at BitByte Technology as a Jr. Software Engineer
+- 🔭 I’m currently working at Skylark Soft Limited as a Software Engineer
 
 - 👨‍💻 All of my projects are available at [https://github.com/abirhossain9](https://github.com/abirhossain9)
 
