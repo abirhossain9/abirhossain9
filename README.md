@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abirhossain9](https://github.com/abirhossain9)
 
-- 📫 How to reach me **https://www.facebook.com/hossainabir0/,**
+- 📫 How to reach me **https://www.linkedin.com/in/mdhossainabir9/,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
