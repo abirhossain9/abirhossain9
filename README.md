@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abir Hossain</h1>
-<h3 align="center">I am a professional Software Engineer at 株式会社ゼネックコミュニケーション, dedicated to using rigorous engineering practices to deliver innovative and profitable software solutions. With a Master’s from the Kyoto Institute of Information Technology (KCGI) and a BSc in CSE from North South University, I have built a career specializing in full-stack development. My technical expertise includes PHP, Laravel, Lumen, JavaScript, React, Vue.JS, Axios, jQuery, MySQL, and RESTful API development.
-Having previously served as a Software Engineer (Team Lead) at Ecomclips, I have extensive experience in the ed-tech, ride-sharing, and e-commerce sectors. I have successfully architected backend systems for rental, promo, referral, and notification services that handle thousands of daily transactions. Additionally, my work on goRMG ERP one of Bangladesh's premier garments management systems involved developing complex modules covering all aspects of the business. I am passionate about building scalable services that serve thousands of customers on a daily basis.
+<h3 align="center">I am a professional Software Engineer currently working in Kyoto, Japan, dedicated to applying rigorous engineering practices to deliver innovative and profitable software solutions. I hold a Master’s degree from 京都情報大学院大学 (KCGI) and a BSc in Computer Science and Engineering from North South University. I have built my career specializing in full-stack development.
+ 
+My technical expertise includes AWS, PHP, Laravel, Lumen, JavaScript, React, Vue.js, Axios, jQuery, MySQL, and RESTful API development.
+ 
+Previously, I served as a Software Engineer (Team Lead) at Ecomclips, where I gained extensive experience in the ed-tech, ride-sharing, and e-commerce sectors. I have successfully architected backend systems for rental, promotion, referral, and notification services, handling thousands of transactions daily. Additionally, my work on goRMG ERP one of Bangladesh’s leading garment management systems involved developing complex modules covering various aspects of the business.
+ 
+I am passionate about building scalable services that efficiently serve thousands of customers every day.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abirhossain9&label=Profile%20views&color=0e75b6&style=flat" alt="abirhossain9" /> </p>
