@@ -12,10 +12,6 @@ I am passionate about building scalable services that efficiently serve thousand
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abirhossain9" alt="abirhossain9" /></a> </p>
 
-- 🔭 I’m currently working at Skylark Soft Limited as a Software Engineer
-
-- 👨‍💻 All of my projects are available at [https://github.com/abirhossain9](https://github.com/abirhossain9)
-
 - 📫 How to reach me **https://www.linkedin.com/in/mdhossainabir9/,**
 
 <h3 align="left">Connect with me:</h3>
